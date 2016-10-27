@@ -1,5 +1,5 @@
-Jekyll Bootstrap
-================
+Bootstrap 4 <sup><sub>for GitHub Pages and Jekyll</sub></sup>
+=============================================================
 
 This is not a fork. This is a fresh new and lightweight implementation of base Bootstrap 4 template for Jekyll powered by [Bootstrap Layouts](https://github.com/highweb/bootstrap-layouts).
 
