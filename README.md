@@ -1,3 +1,8 @@
+---
+layout: jumbohead
+title: Bootstrap 4 for Jekyll
+---
+
 Bootstrap 4 <sup><sub>for GitHub Pages and Jekyll</sub></sup>
 =============================================================
 
